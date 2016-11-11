@@ -1,0 +1,40 @@
+h1 {
+	font-size: 2em;
+	font-style: italic;
+}
+
+/* Add a gray background color and some padding to the footer */
+footer {
+	background-color: #f2f2f2;
+	padding: 25px;
+}
+.table th {
+   text-align: center;   
+}
+
+.row [class*="col-"] {
+	margin-bottom: -99999px;
+	padding-bottom: 99999px;
+}
+.middle
+        {
+            position:relative;
+            left:2em;
+        }
+.left
+        {
+            position:relative;
+            left:0px;
+        }
+.right
+        {
+            position:relative;
+            left:5em;
+        }
+.row {
+	overflow: hidden;
+}
+
+a{
+	text-decoration: underline;
+}@CHARSET "ISO-8859-1";
